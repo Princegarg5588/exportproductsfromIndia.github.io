@@ -9,8 +9,8 @@
 
 .wrapper{
   position: absolute;
-  top: 50%;
-  left: 80%;
+  left: 50%;
+  top: 1750%;
   transform: translate(-50%,-50%);
   max-width: 350px;
   width: 100%;
@@ -72,7 +72,7 @@
   background: #fe8b8e;
   text-align: center;
   font-size: 14px;
-  transition: all 0.2s ease;
+  transition: all 0.5s ease;
 }
 
 @media screen and (max-width: 800px){
